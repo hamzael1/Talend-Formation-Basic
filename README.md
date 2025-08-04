@@ -1,4 +1,3 @@
-============================================
 CXF-JMX example
 ============================================
 The cxf-jmx example illustrates how to enable CXF for JMX for web service
